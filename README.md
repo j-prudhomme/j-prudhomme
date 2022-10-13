@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://fr.linkedin.com/in/julien-prudhomme-1aa896203/en?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/julien-prudhomme-1aa896203/en?trk=people-guest_people_search-card" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/julien-prudhomme-1aa896203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/julien-prudhomme-1aa896203/en?trk=people-guest_people_search-card" height="30" width="40" /></a>
 </p>
 <p align="left">
 <a target="blank"><img align="center" src="https://img2.freepng.fr/20181127/ay/kisspng-clip-art-email-address-logo-download-5bfdcd57294576.9064942215433598311691.jpg" height="30" width="40" /></a> julien1.prudhomme@epitech.eu
