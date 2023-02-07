@@ -7,8 +7,3 @@
 - 🔭 I’m currently working on **an Mobile app in Kotlin**
 
 - 🌱 I’m currently learning **Kotlin**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/julien-prudhomme-1aa896203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julien-prudhomme-1aa896203/" height="30" width="40" /></a>
-</p>
