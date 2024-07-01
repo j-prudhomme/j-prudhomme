@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Julien Prudhomme</h1>
-<h3 align="center">3rd years student at Epitech</h3>
-
-- 🔭 I’m currently working on **an Mobile app in Kotlin**
-
-- 🌱 I’m currently learning **Kotlin**
+<h3 align="center">4th years student at Epitech</h3>
 
 # :computer: Tech Stack:
 
